@@ -1,4 +1,4 @@
-JSPM, TypeScript, React, JSX (TSX) and PostCSS
+JSPM, System.js, TypeScript, React, JSX (TSX) and PostCSS
 ----------------------------------------------
 
 Playing about with some bleeding edge :shit:!!!
