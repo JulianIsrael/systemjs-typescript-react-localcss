@@ -1,0 +1,19 @@
+{
+  "jspm": {
+    "registry": "github",
+    "dependencies": {
+      "postcss-safe-parser": "npm:postcss-safe-parser@^1.0.1",
+      "react": "npm:react@^0.13.3",
+      "tsd": "npm:tsd@^0.6.4"
+    },
+    "devDependencies": {
+      "clean-css": "npm:clean-css@^3.4.3",
+      "css": "npm:jspm-loader-css@^1.0.1-beta1",
+      "ts": "frankwallis/plugin-typescript@^2.0.16",
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.9"
+  }
+}
