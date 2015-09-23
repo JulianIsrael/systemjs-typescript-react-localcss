@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "tsd": "tsd install react --save"
+  },
   "jspm": {
     "registry": "github",
     "dependencies": {
@@ -14,6 +17,7 @@
     }
   },
   "devDependencies": {
-    "jspm": "^0.16.9"
+    "jspm": "^0.16.9",
+    "tsd": "^0.6.4"
   }
 }

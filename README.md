@@ -14,6 +14,11 @@ then
 jspm install
 ```
 
+You must also install the DefinitelyTyped typings for react
+```
+npm run tsd
+```
+
 download and install `serve` by running `npm install serve -g`, from the root
 of the repository run `serve ./`
 
